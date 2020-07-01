@@ -1,5 +1,6 @@
 {
-    "python.pythonPath": "e:\\_ME\\Django\\venv\\profiles_rest_api\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Users\\Zaka\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "python.formatting.provider": "black"
 }
